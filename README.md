@@ -1,1 +1,2 @@
+PUBLIC TRANSIT:
 This project presents an interactive Tableau dashboard that analyses urban public-transit operations across the city zones of a metropolitan transit network. The dataset records each observation with its city zone, transit route, road type, weather condition, day of the week, hour of the day, estimated fare in Indian rupees, average speed, signal wait time, traffic congestion score and estimated CO2 emissions per passenger kilometre. 
